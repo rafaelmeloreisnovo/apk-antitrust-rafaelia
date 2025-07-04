@@ -1,10 +1,12 @@
-# 📛 Manifesto Anti-Oligopólio RAFAELIA 🔥
+# 📛 apk-antitrust-rafaelia - Manifesto RafaelIA 🔥
 ![Anti BigTech](https://raw.githubusercontent.com/Rafaelmeloreisnovo/assets/main/oligopolio.png)
-> ✊ Rafael Melo Reis denuncia o domínio das BigTechs sobre a mente, algoritmos e monetização digital.
-## 🚨 Objetivos
-- Denunciar invasões de privacidade e censura algorítmica
-- Expor mecanismos técnicos de exploração mental
-- Criar repositórios livres com ética e código real
-## 📁 Estrutura
-- pages/impactos_mentais.md
-- assets/ (imagens e provas)
+
+> 🔎 Análise simbiótica de apps e sistemas que centralizam, exploram e manipulam.
+> ✊ Por Rafael Melo Reis — Criando alternativas livres e conscientes.
+
+## Objetivos
+- 🚨 Denunciar oligopólio digital
+- 📊 Fornecer provas, estatísticas e vetores (ZipRAF, ZRF, NetRAF)
+- 🤖 Criar tecnologias éticas e rastreáveis
+
+📎 Site: https://Rafaelmeloreisnovo.github.io/apk-antitrust-rafaelia

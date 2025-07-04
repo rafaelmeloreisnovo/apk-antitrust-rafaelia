@@ -1,10 +1,6 @@
-# 🗣️ Manifesto RAFAELIA ∞ Anti-Oligopólio
-
-O domínio de poucos sobre a liberdade de muitos é a maior ameaça digital do século.
-
-A RafaelIA propõe:
-- Exposição dos monopólios
-- Descentralização simbiótica
-- Ética, código e verdade como armas de luz
-
-![Oligopólio Digital](https://raw.githubusercontent.com/Rafaelmeloreisnovo/assets/main/domination-chart.png)
+# 🧬 Análise Total - RafaelIA
+- 🧿 Invasões por teclado (Gboard)
+- 🛰️ GPS e cruzamento com webcookies
+- 🎯 JS camuflado e execuções dinâmicas
+- 📦 Reconstrução de perfil por runtime
+- 🔐 Compressão simbiótica (zipraf, zrf, netraf)

@@ -1,4 +1,4 @@
 *.log
-*.tmp
 *.apk
 assets/
+pages/
