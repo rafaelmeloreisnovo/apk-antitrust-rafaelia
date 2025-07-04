@@ -1,0 +1,6 @@
+# Logs
+*.log
+# Backup
+*.zipraf
+# Cache
+.cache/
