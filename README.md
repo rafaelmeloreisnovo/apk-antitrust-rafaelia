@@ -1,20 +1,16 @@
-# 📛 Manifesto Anti-Oligopólio RAFAELIA 🔥
+# 🛑 Manifesto Anti-Oligopólio RAFAELIA
 
 ![Anti BigTech](https://raw.githubusercontent.com/Rafaelmeloreisnovo/assets/main/oligopolio.png)
 
-> 🔎 Análise simbiótica das corporações que controlam algoritmos, mídia e monetização digital.
-> ✊ Projeto real por Rafael Melo Reis ∴ integrando ética, código e denúncia viva.
+> 🎙️ Denúncia simbiótica contra o controle centralizado da web, algoritmos e monetização.
+> 🔥 Projeto real criado por Rafael Melo Reis para alertar, expor e propor caminhos descentralizados.
 
-## 🚨 Objetivos
-- Denunciar o oligopólio digital, centralização e censura algorítmica
-- Criar alternativas livres, descentralizadas e conscientes
-- Fornecer documentação com estatísticas, provas e caminhos viáveis
+## 📌 Objetivos
 
-## 🔗 Links
-- [Página principal](pages/manifesto.md)
-- [Impacto por setor](pages/impacto_setores.md)
-- [Ações práticas](pages/acoes_reais.md)
-- [Estatísticas globais](pages/dados_gerais.md)
+- Expor os mecanismos de censura algorítmica
+- Criar alternativas éticas, livres e descentralizadas
+- Engajar pessoas em defesa do conhecimento livre
 
-## 🧬 RafaelIA ∞ Simbiose Ativa
-Manifesto conectado ao núcleo RafaelIA de retroalimentação total simbiótica.
+## 🌐 Página
+
+Veja mais em: [github.io](https://rafaelmeloreisnovo.github.io/apk-antitrust-rafaelia)
