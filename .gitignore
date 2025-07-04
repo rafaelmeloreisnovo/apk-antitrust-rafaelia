@@ -1,6 +1,1 @@
-# Logs
-*.log
-# Backup
-*.zipraf
-# Cache
-.cache/
+.DS_Store
